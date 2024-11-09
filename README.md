@@ -1,4 +1,7 @@
 Name: K.N Bharath
+Company: SkillCRAFT TECHNOLOGY
+ID: SCT/NOV24/0526
+Domain: Software Development
 
 Introduction:
          This program is designed to solve Sudoku puzzles automatically. Given an input grid representing an unsolved puzzle, the program uses an algorithm to fill in the missing numbers, following standard Sudoku rules. Each row, column, and 3x3 sub-grid in the 9x9 puzzle must contain all numbers from 1 to 9 without repetition.
